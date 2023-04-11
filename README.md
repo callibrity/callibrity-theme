@@ -15,6 +15,14 @@ Out of one rabit hole and into the next, love,
 
 ### Ivan _the not so terrible_ ❤️
 
+## Screenshots
+
+Active, Open Solution
+![Active Solution](./images/ActiveOpenSolution.png)
+
+No Solution
+![No Solution](./images/NoSolution.png)
+
 ## <u>Developer Notes</u>
 
 To create this, I needed to follow [this guide](https://code.visualstudio.com/api/extension-guides/color-theme#create-a-new-color-theme).
