@@ -1,0 +1,22 @@
+{
+  "name": "callibrity-theme",
+  "displayName": "Callibrity",
+  "description": "For Developers By Developers!",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.77.0"
+  },
+  "icon": "icon/Callibrity_Crest_icon.png",
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Callibrity",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Callibrity-color-theme.json"
+      }
+    ]
+  }
+}
