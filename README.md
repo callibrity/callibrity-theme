@@ -1,27 +1,38 @@
-# Color me surprised (°.°)
+# Callibrity's Developer Theme
 
 Oh? You're a developer huh?
 
 So, you must like coding right?
 
-Well, why don't you\
-67 65 74 20 62 61 63 6b 20 74 6f 20 69 74 20 74 68 65 6e
+Well why don't you check out a company that's
+_for developers,_
+_by developers!_
 
-Jk jk, I made this theme with Callibrity's colors just to see what's it like.\
-It was pretty fun. And this is technically an extension!\
-So now who knows what I might develop next in VSCode!! 😎
+We do all kinds of things like:
 
-Out of one rabit hole and into the next, love,
+- bring you to the cloud
+- automate your workflow by helping you build out your CI/CD
+- revamp your legacy solution with modern tools
+- and so much more!
 
-### Ivan _the not so terrible_ ❤️
+Check out Callibrity at <https://www.callibrity.com/>
 
-## Screenshots
+## Color me surprised (°.°)
 
 Active, Open Solution
 ![Active Solution](./images/ActiveOpenSolution.png)
 
 No Solution
 ![No Solution](./images/NoSolution.png)
+
+## Myself
+
+Hey! Thanks for checking out this theme!
+I'm a software developer here at Callibrity and just loved the company colors so much that I thought I'd integrate it into my solution. 😎
+
+Out of one rabit hole and into the next, love,
+
+\- [Ivan](https://github.com/ivan-the-terrible) _the not so terrible_ ❤️
 
 ## Installation
 

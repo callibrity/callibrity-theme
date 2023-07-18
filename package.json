@@ -1,19 +1,26 @@
 {
   "name": "callibrity-theme",
-  "displayName": "Callibrity",
-  "description": "For Developers By Developers!",
+  "displayName": "Callibrity Theme",
+  "description": "A theme For Developers By Developers!",
   "version": "0.0.1",
   "engines": {
     "vscode": "^1.77.0"
   },
   "repository": {
-    "url": "https://github.com/ivan-the-terrible/callibrity-theme",
+    "url": "https://github.com/callibrity/callibrity-theme",
     "type": "git"
   },
   "icon": "icon/Callibrity_Crest_icon.png",
   "author": {
-    "name": "Ivan the not so terrible"
+    "name": "Callibrity",
+    "url": "https://www.callibrity.com"
   },
+  "contributors": [
+    {
+      "name": "Ivan the not so terrible",
+      "url": "https://github.com/ivan-the-terrible"
+    }
+  ],
   "categories": [
     "Themes"
   ],
