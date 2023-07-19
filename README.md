@@ -2,7 +2,7 @@
 
 Oh? You're a developer huh?
 
-So, you must like coding right?
+So, you must like coding, right?
 
 Well why don't you check out a company that's
 _for developers,_
@@ -30,13 +30,14 @@ No Solution
 Hey! Thanks for checking out this theme!
 I'm a software developer here at Callibrity and just loved the company colors so much that I thought I'd integrate it into my solution. 😎
 
-Out of one rabit hole and into the next, love,
+Out of one rabbit hole and into the next.
+Love,
 
 \- [Ivan](https://github.com/ivan-the-terrible) _the not so terrible_ ❤️
 
 ## Installation
 
-To install, go to Releases, find the VSIX file and download that.\
+To install manually instead of the Store: go to Releases, find the VSIX file and download that.\
 Use `code --install-extension .\callibrity-theme-0.0.1.vsix` to install it within VSCode.\
 Then, with VSCode open, you can do any of the following:
 
